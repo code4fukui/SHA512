@@ -5,6 +5,7 @@ If you want to use on Node.js, use [js-sha512](https://github.com/emn178/js-sha5
 If you want to use on C#, use [SHA512 class](https://docs.microsoft.com/ja-jp/dotnet/api/system.security.cryptography.sha512?view=net-6.0).  
 If you want to use on Python3, use [hashlib](https://docs.python.org/ja/3/library/hashlib.html).  
 If you want to use on Ruby, use [SHA512 class](https://docs.ruby-lang.org/ja/latest/class/Digest=3a=3aSHA512.html).  
+If you want to use on PHP, use [hash](https://www.php.net/manual/ja/function.hash.php).  
 
 ## Demo
 [SHA512 Online](http://emn178.github.io/online-tools/sha512.html)  
