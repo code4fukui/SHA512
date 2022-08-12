@@ -99,7 +99,7 @@ SHA512.sha512.arrayBuffer(''); // ArrayBuffer
 ```
 
 ## Todo
-tests
+rewrite [tests]
 
 ## License
 The project is released under the [MIT license](http://www.opensource.org/licenses/MIT).
