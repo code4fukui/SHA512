@@ -3,11 +3,11 @@ A simple SHA-512, SHA-384, SHA-512/224, SHA-512/256 hash functions for JavaScrip
 
 ## Other platform
 
-on Node.js [js-sha512](https://github.com/emn178/js-sha512).  
-on C# [SHA512 class](https://docs.microsoft.com/ja-jp/dotnet/api/system.security.cryptography.sha512?view=net-6.0).  
-on Python3 [hashlib](https://docs.python.org/ja/3/library/hashlib.html).  
-on Ruby [SHA512 class](https://docs.ruby-lang.org/ja/latest/class/Digest=3a=3aSHA512.html).  
-on PHP [hash](https://www.php.net/manual/ja/function.hash.php).  
+on Node.js [js-sha512](https://github.com/emn178/js-sha512)  
+on C# [SHA512 class](https://docs.microsoft.com/ja-jp/dotnet/api/system.security.cryptography.sha512?view=net-6.0)  
+on Python3 [hashlib](https://docs.python.org/ja/3/library/hashlib.html)  
+on Ruby [SHA512 class](https://docs.ruby-lang.org/ja/latest/class/Digest=3a=3aSHA512.html)  
+on PHP [hash](https://www.php.net/manual/ja/function.hash.php)  
 
 ## Demo
 [SHA512 Online](http://emn178.github.io/online-tools/sha512.html)  
