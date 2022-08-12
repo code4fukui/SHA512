@@ -1,9 +1,5 @@
-# js-sha512
-[![Build Status](https://travis-ci.org/emn178/js-sha512.svg?branch=master)](https://travis-ci.org/emn178/js-sha512)
-[![Coverage Status](https://coveralls.io/repos/emn178/js-sha512/badge.svg?branch=master)](https://coveralls.io/r/emn178/js-sha512?branch=master)
-[![CDNJS](https://img.shields.io/cdnjs/v/js-sha512.svg)](https://cdnjs.com/libraries/js-sha512/)  
-[![NPM](https://nodei.co/npm/js-sha512.png?stars&downloads)](https://nodei.co/npm/js-sha512/)  
-A simple SHA-512, SHA-384, SHA-512/224, SHA-512/256 hash functions for JavaScript supports UTF-8 encoding.
+# SHA512.js
+A simple SHA-512, SHA-384, SHA-512/224, SHA-512/256 hash functions for JavaScript ES modules supports UTF-8 encoding.
 
 ## Notice
 * v0.8.0+ will throw an error if try to update hash after finalize.
@@ -14,20 +10,17 @@ A simple SHA-512, SHA-384, SHA-512/224, SHA-512/256 hash functions for JavaScrip
 [SHA512/256 Online](http://emn178.github.io/online-tools/sha512_256.html)  
 [SHA512/224 Online](http://emn178.github.io/online-tools/sha512_224.html)  
 
-## Download
-[Compress](https://raw.github.com/emn178/js-sha512/master/build/sha512.min.js)  
-[Uncompress](https://raw.github.com/emn178/js-sha512/master/src/sha512.js)
-
-## Installation
-You can also install js-sha512 by using Bower.
-
-    bower install js-sha512
-
-For node.js, you can use this command to install:
-
-    npm install js-sha512
-
 ## Usage
+```js
+import { SHA512 } from "https://code4fukui.github.io/SHA512/SHA512.js";
+
+console.log(SHA512.digest("Message to hash"));
+```
+
+## Todo
+tests
+
+## other Usage
 You could use like this:
 ```JavaScript
 sha512('Message to hash');

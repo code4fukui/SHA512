@@ -1,5 +1,9 @@
 # Change Log
 
+## v0.9.0 / 2022-08-12
+### Changed
+- change to an ES module
+
 ## v0.8.0 / 2018-08-05
 ### Added
 - TypeScript definitions.
