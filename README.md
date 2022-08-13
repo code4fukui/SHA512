@@ -9,9 +9,6 @@ on Python3 [hashlib](https://docs.python.org/ja/3/library/hashlib.html)
 on Ruby [SHA512 class](https://docs.ruby-lang.org/ja/latest/class/Digest=3a=3aSHA512.html)  
 on PHP [hash](https://www.php.net/manual/ja/function.hash.php)  
 
-## Sample
-[csv hash converter (CSVのSHA512/256ハッシュ化変換)](https://code4fukui.github.io/SHA512/sample/csv_hash_converter.html)  
-
 ## Demo
 [SHA512 Online](http://emn178.github.io/online-tools/sha512.html)  
 [SHA384 Online](http://emn178.github.io/online-tools/sha384.html)  
